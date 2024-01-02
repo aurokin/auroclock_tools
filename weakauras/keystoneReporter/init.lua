@@ -9,16 +9,7 @@ end);
 
 aura_env.checkItems = aura_env.checkItems or false;
 
-aura_env.load = function()
-    if (aura_env.loaded == true) then return true; end
-    
-    aura_env.loaded = AuroclockTools ~= nil and AuroclockTools.versionCheck(requiredACT);
-    if (not aura_env.loaded) then return false; end
-    
-    aura_env.init();
-    
-    return aura_env.loaded;
-end
+-- #?# /snippets/initLoad.lua
 
 aura_env.init = function()
     -- Set Initial Data
@@ -64,5 +55,5 @@ aura_env.isKeystonePanda = function()
 end
 
 
-if (not aura_env.load()) then return nil; end
+-- #?# /snippets/initEnd.lua
 
