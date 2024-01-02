@@ -1,12 +1,13 @@
 const fs = require('node:fs/promises');
 const path = require('node:path');
 
+// Project Data
 const projects = [
     {
         name: "AuroclockTools",
         files: [
             {
-                input: ["/init/start.lua", "/init/versionChecking.lua", "/init/general.lua", "/init/utility.lua", "/init/mplus.lua", "/init/end.lua"],
+                input: ["/init/init.lua"],
                 output: "init.lua"
             },
             {
@@ -30,32 +31,32 @@ const projects = [
     }
 ]
 
-const readFile = async (file) => {
-    // Input string path
-    const filePath = path.join(__dirname, file);
-    const fileData = await fs.readFile(filePath);
-    // Output file values
-    return fileData;
-}
-
+// Build Functions
 const buildProjects = async () => {
+    console.log("Building AuroclockTools!\n")
     for await (const project of projects) {
         await buildProject(project);
     }
+    console.log("Done!")
 }
 
 const buildProject = async (project) => {
+    console.log(`- ${project.name}`);
     for await (const target of project.files) {
         await buildLua(target, project.name);
     }
+
+    console.log("\n");
 }
 
 const buildLua = async (target, projectName) => {
     // Build File
+    console.log(`-- ${target.output}`);
     const data = [];
     for await (const file of target.input) {
         const fileData = await readFile(file);
-        data.push(fileData);
+        const compiledFile = await compileFile(fileData);
+        data.push(compiledFile);
     }
     const dataStr = data.join("\n\n");
 
@@ -70,6 +71,41 @@ const buildLua = async (target, projectName) => {
     // Output to build directory
     const targetPath = path.join(projectDir, target.output);
     await fs.writeFile(targetPath, dataStr);
+}
+
+// Logic Functions
+const compileFile = async (fileData) => {
+    // (?<=-- #\?# ).*
+    const prefix = "-- #\?#";
+    const regex = /(?<=-- #\?# ).*/g;
+    const snippets = fileData.match(regex);
+
+    const pairs = [];
+
+    if (Array.isArray(snippets)) {
+        for await (const snippetPath of snippets) {
+            const snippet = await readFile(snippetPath);
+            const snippetTag = `${prefix} ${snippetPath}`;
+            pairs.push({ snippet, snippetTag });
+        }
+    }
+
+    let newFileData = fileData;
+    pairs.forEach(({ snippet, snippetTag }) => {
+        newFileData = newFileData.replace(snippetTag, snippet);
+    })
+
+    return newFileData;
+}
+
+// IO Functions
+const readFile = async (file) => {
+    // Input string path
+    const filePath = path.join(__dirname, file);
+    const fileData = await fs.readFile(filePath, { encoding: 'utf8' });
+
+    // Output file values
+    return fileData;
 }
 
 const makeDirectoryIfItDoesntExist = async (path) => {

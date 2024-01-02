@@ -1,7 +1,6 @@
 function(e, ...)
     -- CHALLENGE_MODE_COMPLETED, ITEM_CHANGED, GOSSIP_CLOSED, PLAYER_ENTERING_WORLD, CHAT_MSG_PARTY, CHAT_MSG_PARTY_LEADER
     -- #?# /snippets/triggerStart.lua
-    if (not aura_env.load()) then return nil; end
     
     if (e == "PLAYER_ENTERING_WORLD") then
         aura_env.checkItems = false;
