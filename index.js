@@ -28,6 +28,19 @@ const projects = [
             }
 
         ]
+    },  
+    {
+        name: "FocusHelper",
+        files: [
+            {
+                input: ["/weakauras/focusHelper/init.lua"],
+                output: "init.lua",
+            }, {
+                input: ["/weakauras/focusHelper/trigger.lua"],
+                output: "trigger.lua",
+            }
+
+        ]
     }
 ]
 

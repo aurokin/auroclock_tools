@@ -1,8 +1,8 @@
-local requiredACT = 2;
+local requiredACT = 3;
 C_Timer.After(AuroclockTools ~= nil and AuroclockTools.registerDelay() or 5, function() 
         local waName = "Keystone Reporter";
         local waId = "KeystoneReporter";
-        local waVersion = 2;  
+        local waVersion = 3;  
         
         WeakAuras.ScanEvents("AUROCLOCK_TOOLS_REGISTER_WA", waId, waName, waVersion, requiredACT);
 end);
@@ -32,7 +32,7 @@ aura_env.hasKeystoneChanged = function(newKeystoneInfo)
         return true;
     end 
     
-    return aura_nev.keystoneInfo.id ~= newKeystoneInfo.id or aura_env.keystoneInfo.level ~= newKeystoneInfo.level;
+    return aura_env.keystoneInfo.id ~= newKeystoneInfo.id or aura_env.keystoneInfo.level ~= newKeystoneInfo.level;
 end
 
 aura_env.sendKeyInfo = function()

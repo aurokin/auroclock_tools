@@ -25,6 +25,7 @@ AuroclockTools.versionCheck = function(requiredVersion)
     local valid = AuroclockTools.getVersion() >= requiredVersion;
 
     if (not valid) then
+        print("One of your WeakAuras does not meet the AuroclockTools version requirement, please update AuroclockTools");
     end
 
     return valid;

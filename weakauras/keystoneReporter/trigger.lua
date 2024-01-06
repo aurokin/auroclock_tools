@@ -6,13 +6,7 @@ function(e, ...)
         aura_env.checkItems = false;
     elseif (e == "CHALLENGE_MODE_COMPLETED") then
         aura_env.checkItems = true;
-    elseif (e == "ITEM_CHANGED" and aura_env.checkItems) then
-        local keystoneInfo = aura_env.getKeystoneInfo();
-        if (aura_env.hasKeystoneChanged(keystoneInfo)) then
-            aura_env.keystoneInfo = keystoneInfo;
-            aura_env.sendKeyInfo();
-        end
-    elseif (e == "GOSSIP_CLOSED" and aura_env.isKeystonePanda()) then
+    elseif ((e == "ITEM_CHANGED" and aura_env.checkItems) or (e == "GOSSIP_CLOSED" and aura_env.isKeystonePanda())) then
         local keystoneInfo = aura_env.getKeystoneInfo();
         if (aura_env.hasKeystoneChanged(keystoneInfo)) then
             aura_env.keystoneInfo = keystoneInfo;
