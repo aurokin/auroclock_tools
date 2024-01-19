@@ -1,10 +1,13 @@
 const fs = require('node:fs/promises');
 const path = require('node:path');
 
+const buildSpellDatabase = require("./spellDatabase/parse.js");
+
 // Project Data
 const projects = [
     {
         name: "AuroclockTools",
+        type: "WA",
         files: [
             {
                 input: ["/init/init.lua"],
@@ -18,6 +21,7 @@ const projects = [
     },
     {
         name: "KeystoneReporter",
+        type: "WA",
         files: [
             {
                 input: ["/weakauras/keystoneReporter/init.lua"],
@@ -31,6 +35,7 @@ const projects = [
     },  
     {
         name: "FocusHelper",
+        type: "WA",
         files: [
             {
                 input: ["/weakauras/focusHelper/init.lua"],
@@ -41,49 +46,129 @@ const projects = [
             }
 
         ]
+    },
+    {
+        name: "TargetCastbar",
+        type: "WA",
+        files: [
+            {
+                input: ["/weakauras/castbar/target/init.lua"],
+                output: "init.lua",
+            }, {
+                input: ["/weakauras/castbar/target/trigger.lua"],
+                output: "trigger.lua",
+            }
+
+        ]
+    },
+    {
+        name: "FocusCastbar",
+        type: "WA",
+        files: [
+            {
+                input: ["/weakauras/castbar/focus/init.lua"],
+                output: "init.lua",
+            }, {
+                input: ["/weakauras/castbar/focus/trigger.lua"],
+                output: "trigger.lua",
+            }
+
+        ]
+    },
+    {
+        name: "FormatName",
+        type: "Plater",
+        files: [{
+            input: ["/plater/formatName/init.lua"],
+            output: "init.lua",
+        }, {
+            input: ["/plater/formatName/added.lua"],
+            output: "added.lua",
+        }, {
+            input: ["/plater/formatName/created.lua"],
+            output: "created.lua",
+        }, {
+            input: ["/plater/formatName/updated.lua"],
+            output: "updated.lua",
+        }, {
+            input: ["/plater/formatName/nameUpdated.lua"],
+            output: "nameUpdated.lua",
+        }]
+    },     {
+        name: "FormatBorder",
+        type: "Plater",
+        files: [{
+            input: ["/plater/formatBorder/init.lua"],
+            output: "init.lua",
+        }, {
+            input: ["/plater/formatBorder/added.lua"],
+            output: "added.lua",
+        }, {
+            input: ["/plater/formatBorder/created.lua"],
+            output: "created.lua",
+        }, {
+            input: ["/plater/formatBorder/updated.lua"],
+            output: "updated.lua",
+        }, {
+            input: ["/plater/formatBorder/targetChanged.lua"],
+            output: "targetChanged.lua",
+        }]
     }
 ]
 
 // Build Functions
 const buildProjects = async () => {
     console.log("Building AuroclockTools!\n")
+
+    // Spell Database
+    const lua = await buildSpellDatabase();
+    await saveLua(lua, "SpellDatabase", "LuaData", "db.lua");  
+    console.log(`\n`);
+
+    // WeakAuras
     for await (const project of projects) {
         await buildProject(project);
     }
-    console.log("Done!")
+
+    console.log("Done!");
 }
 
 const buildProject = async (project) => {
     console.log(`- ${project.name}`);
     for await (const target of project.files) {
-        await buildLua(target, project.name);
+        await buildLua(target, project.name, project.type);
     }
 
     console.log("\n");
 }
 
-const buildLua = async (target, projectName) => {
+const buildLua = async (target, projectName, type) => {
     // Build File
-    console.log(`-- ${target.output}`);
     const data = [];
     for await (const file of target.input) {
         const fileData = await readFile(file);
         const compiledFile = await compileFile(fileData);
         data.push(compiledFile);
     }
-    const dataStr = data.join("\n\n");
+    const lua = data.join("\n\n");
 
+    await saveLua(lua, projectName, type, target.output);
+}
+
+const saveLua = async (lua, projectName, type, fileName) => {
     // Create build directory if it doesn't exist
     const buildDir = path.join(__dirname, "/build");
     await makeDirectoryIfItDoesntExist(buildDir);
 
     // Create project directory if it doesn't exist
-    const projectDir = path.join(buildDir, projectName);
+    const projectDir = path.join(buildDir, `${type}-${projectName}`);
     await makeDirectoryIfItDoesntExist(projectDir);
 
     // Output to build directory
-    const targetPath = path.join(projectDir, target.output);
-    await fs.writeFile(targetPath, dataStr);
+    const targetPath = path.join(projectDir, fileName);
+    await fs.writeFile(targetPath, lua);
+
+    console.log(`-- ${fileName}`);
 }
 
 // Logic Functions

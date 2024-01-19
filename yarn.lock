@@ -9,9 +9,17 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "auroclock-tools@workspace:."
   dependencies:
+    csv-parse: "npm:^5.5.3"
     prettier: "npm:^3.1.1"
   languageName: unknown
   linkType: soft
+
+"csv-parse@npm:^5.5.3":
+  version: 5.5.3
+  resolution: "csv-parse@npm:5.5.3"
+  checksum: 2f85cd52ea11b08d85cb97a1c90db6ed52f9d3c4e3805831da8c59c589e04870adff067ac88855deb9863a16649b3827a1ed576fd021bdf3937b1cf4de8a03ba
+  languageName: node
+  linkType: hard
 
 "prettier@npm:^3.1.1":
   version: 3.1.1

@@ -2,6 +2,8 @@
 
 -- #?# /init/constants.lua
 
+-- #?# /build/LuaData-SpellDatabase/db.lua
+
 -- #?# /init/libraries.lua
 
 -- #?# /init/versionChecking.lua

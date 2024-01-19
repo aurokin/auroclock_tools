@@ -1,0 +1,719 @@
+Spell Name,Spell ID,NPC ID,NPC Name,NPC Dungeon,Interruptible,Important Interrupt,Stoppable,Important Stoppable
+Temposlice,412012,205408,Infinite Timeslicer,Fall,FALSE,FALSE,TRUE,FALSE
+Temposlice,412044,205408,Infinite Timeslicer,Fall,FALSE,FALSE,TRUE,FALSE
+Chronomelt,411994,205384,Infiinite Chronoweaver,Fall,TRUE,TRUE,FALSE,FALSE
+Timerip,412063,205435,Epoch Ripper,Fall,FALSE,FALSE,FALSE,FALSE
+Timerip,412065,205435,Epoch Ripper,Fall,FALSE,FALSE,FALSE,FALSE
+Eon Fragments,405970,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Chronoshear,413013,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Eon Shatter,413107,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Eon Shatter,413142,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Eon Shatter,413105,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Withering Sandpool,401794,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Withering Sandpool,418420,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Sheared Lifespan,413041,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Sand Stomp,401420,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Sand Stomp,401421,198995,Chronikar,Fall,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418086,206068,Temporal Fusion,Fall,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418085,206068,Temporal Fusion,Fall,FALSE,FALSE,FALSE,FALSE
+Triple Strike,413489,206068,Temporal Fusion,Fall,FALSE,FALSE,FALSE,FALSE
+Triple Strike,413487,206068,Temporal Fusion,Fall,FALSE,FALSE,FALSE,FALSE
+Infinite Bolt,415435,206064,Coalesced Moment,Fall,TRUE,FALSE,FALSE,FALSE
+Tainted Sands,415436,206064,Coalesced Moment,Fall,FALSE,FALSE,FALSE,FALSE
+Double Strike,413473,206063,Temporal Deviation,Fall,FALSE,FALSE,FALSE,FALSE
+Double Strike,413474,206063,Temporal Deviation,Fall,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418086,206063,Temporal Deviation,Fall,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418085,206063,Temporal Deviation,Fall,FALSE,FALSE,FALSE,FALSE
+Infinite Bolt Volley,415770,206140,Coalesced Time,Fall,TRUE,TRUE,FALSE,FALSE
+Chronoburst,413219,206140,Coalesced Time,Fall,FALSE,FALSE,FALSE,FALSE
+Chronoburst,415554,206140,Coalesced Time,Fall,FALSE,FALSE,FALSE,FALSE
+Chronoburst,415769,206140,Coalesced Time,Fall,FALSE,TRUE,FALSE,FALSE
+Enervate,415438,206066,Timestream Leech,Fall,TRUE,TRUE,TRUE,FALSE
+Enervate,415439,206066,Timestream Leech,Fall,TRUE,TRUE,TRUE,FALSE
+Enervate,415437,206066,Timestream Leech,Fall,TRUE,TRUE,TRUE,FALSE
+Time-Displacement,418085,199749,Timestream Anomaly,Fall,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418086,199749,Timestream Anomaly,Fall,FALSE,FALSE,FALSE,FALSE
+Bloom,413544,199749,Timestream Anomaly,Fall,FALSE,FALSE,FALSE,FALSE
+Bloom,413547,199749,Timestream Anomaly,Fall,FALSE,FALSE,FALSE,FALSE
+Untwist,413532,199749,Timestream Anomaly,Fall,FALSE,FALSE,FALSE,FALSE
+Untwist,413529,199749,Timestream Anomaly,Fall,FALSE,FALSE,FALSE,FALSE
+Untwist,413536,199749,Timestream Anomaly,Fall,FALSE,FALSE,FALSE,FALSE
+Relentless Hunger,412695,205804,Risen Dragon,Fall,FALSE,FALSE,FALSE,FALSE
+Necrotic Outburst,416267,205804,Risen Dragon,Fall,FALSE,FALSE,FALSE,FALSE
+Necrotic Outburst,417404,205804,Risen Dragon,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Spew,412806,205804,Risen Dragon,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Spew,412810,205804,Risen Dragon,Fall,FALSE,FALSE,FALSE,FALSE
+Relentless Hunger,412695,204536,Blight Chunk,Fall,FALSE,FALSE,FALSE,FALSE
+Relentless Hunger,412699,204536,Blight Chunk,Fall,FALSE,FALSE,FALSE,FALSE
+Malignant Transferal,415097,198997,Blight of Galakrond,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosion,407714,198997,Blight of Galakrond,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosion,407413,198997,Blight of Galakrond,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosion,407406,198997,Blight of Galakrond,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Seep,407057,198997,Blight of Galakrond,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Seep,407147,198997,Blight of Galakrond,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosive Infusion,406886,198997,Blight of Galakrond,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Reclamation,407159,198997,Blight of Galakrond,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Reclamation,407159,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosive Infusion,406886,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Malignant Transferal,415114,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Corrupted Mind,418348,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Necrotic Winds,407978,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Necrotic Winds,408008,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Necrotic Winds,415254,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosion,407714,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosion,407413,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosion,407406,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Seep,407057,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Seep,407147,201792,Ahnzon,Fall,FALSE,FALSE,FALSE,FALSE
+Noxious Ejection,413590,201788,Dazhak,Fall,FALSE,FALSE,FALSE,FALSE
+Incinerating Blightbreath,408141,201788,Dazhak,Fall,FALSE,FALSE,FALSE,FALSE
+Incinerating Blightbreath,408177,201788,Dazhak,Fall,FALSE,FALSE,FALSE,FALSE
+Chains of Ice,45524,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Reclamation,407159,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosive Infusion,406886,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Corrupted Mind,418348,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Necrofrost,408029,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Numbing Poison,5760,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosion,407714,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosion,407406,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Corrosion,407413,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Seep,407057,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Blight Seep,407147,201790,Loszkeleth,Fall,FALSE,FALSE,FALSE,FALSE
+Stonebolt,411958,205691,Iridikron's Creation,Fall,TRUE,TRUE,TRUE,FALSE
+Stonebolt,416254,205691,Iridikron's Creation,Fall,TRUE,TRUE,TRUE,FALSE
+Stonebolt,412285,205691,Iridikron's Creation,Fall,TRUE,TRUE,TRUE,FALSE
+Extinction Blast,409266,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Extinction Blast,409268,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Extinction Blast,409261,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Extinction Blast,414300,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Earthsurge,409584,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Earthsurge,409456,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Stonecracker Barrage,414583,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Stonecracker Barrage,414604,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Stonecracker Barrage,414535,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Pulverizing Creations,409879,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Pulverizing Creations,409884,198933,Iridikron,Fall,FALSE,FALSE,FALSE,FALSE
+Rending Cleave,412505,205151,Tyr's Vanguard,Rise,FALSE,FALSE,FALSE,FALSE
+Epoch Bolt,400165,201223,Infinite Twilight Magus,Rise,TRUE,FALSE,FALSE,FALSE
+Corroding Volley,413606,201223,Infinite Twilight Magus,Rise,TRUE,TRUE,TRUE,TRUE
+Corroding Volley,413607,201223,Infinite Twilight Magus,Rise,TRUE,TRUE,TRUE,TRUE
+Corroding Volley,400180,201223,Infinite Twilight Magus,Rise,TRUE,TRUE,TRUE,TRUE
+Titanic Bulwark,413024,201222,"Valow, Timesworn Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Titanic Bulwark,413027,201222,"Valow, Timesworn Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Temporal Strike,412137,201222,"Valow, Timesworn Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Temporal Strike,412136,201222,"Valow, Timesworn Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Temporal Strike,412138,201222,"Valow, Timesworn Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Orb of Contemplation,412128,205152,"Lerai, Timesworn Maiden",Rise,FALSE,FALSE,FALSE,FALSE
+Orb of Contemplation,412129,205152,"Lerai, Timesworn Maiden",Rise,FALSE,FALSE,FALSE,FALSE
+Orb of Contemplation,412131,205152,"Lerai, Timesworn Maiden",Rise,FALSE,FALSE,FALSE,FALSE
+Orb of Contemplation,418435,205152,"Lerai, Timesworn Maiden",Rise,FALSE,FALSE,FALSE,FALSE
+Ancient Radiance,413023,205152,"Lerai, Timesworn Maiden",Rise,FALSE,FALSE,FALSE,FALSE
+Shrouding Sandstorm,412242,205158,"Spurlok, Timesworn Sentinel",Rise,FALSE,FALSE,FALSE,FALSE
+Shrouding Sandstorm,414922,205158,"Spurlok, Timesworn Sentinel",Rise,FALSE,FALSE,FALSE,FALSE
+Shrouding Sandstorm,412215,205158,"Spurlok, Timesworn Sentinel",Rise,FALSE,FALSE,FALSE,FALSE
+Shrouding Sandstorm,412238,205158,"Spurlok, Timesworn Sentinel",Rise,FALSE,FALSE,FALSE,FALSE
+Binding Grasp,412922,205158,"Spurlok, Timesworn Sentinel",Rise,TRUE,TRUE,FALSE,FALSE
+Spark of Tyr,400649,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Spark of Tyr,400683,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Spark of Tyr,400680,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Spark of Tyr,400681,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Annihilation,400597,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Annihilation,401482,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Consecrated Ground,403724,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Radiant Barrier,414493,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Radiant Barrier,410249,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Pondering the Oathstone,413595,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Titanic Blow,417339,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Titanic Blow,401248,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Dividing Strike,400641,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Siphon Oathstone,400642,198998,"Tyr, the Infinite Keeper",Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Fury,413623,207177,Infinite Watchkeeper,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Fury,413622,207177,Infinite Watchkeeper,Rise,FALSE,FALSE,FALSE,FALSE
+Timeless Curse,413618,207177,Infinite Watchkeeper,Rise,FALSE,FALSE,FALSE,FALSE
+Timeless Curse,413621,207177,Infinite Watchkeeper,Rise,FALSE,FALSE,FALSE,FALSE
+Displace Chronosequence,417481,199748,Timeline Marauder,Rise,TRUE,TRUE,FALSE,FALSE
+Infinite Schism,419327,199748,Timeline Marauder,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Schism,419328,199748,Timeline Marauder,Rise,FALSE,FALSE,FALSE,FALSE
+Radiant Schism,419339,199748,Timeline Marauder,Rise,FALSE,FALSE,FALSE,FALSE
+Timeless Curse,413618,208438,Infinite Saboteur,Rise,FALSE,FALSE,FALSE,FALSE
+Timeless Curse,413621,208438,Infinite Saboteur,Rise,FALSE,FALSE,FALSE,FALSE
+Bronze Exhalation,419351,208438,Infinite Saboteur,Rise,FALSE,FALSE,FALSE,FALSE
+Timeless Curse,413618,206230,Infinite Diversionist,Rise,FALSE,FALSE,FALSE,FALSE
+Timeless Curse,413621,206230,Infinite Diversionist,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Fury,413623,206230,Infinite Diversionist,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Fury,413622,206230,Infinite Diversionist,Rise,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418085,199749,Timestream Anomaly,Rise,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418086,199749,Timestream Anomaly,Rise,FALSE,FALSE,FALSE,FALSE
+Bloom,413544,199749,Timestream Anomaly,Rise,FALSE,FALSE,FALSE,FALSE
+Bloom,413547,199749,Timestream Anomaly,Rise,FALSE,FALSE,FALSE,FALSE
+Untwist,413532,199749,Timestream Anomaly,Rise,FALSE,FALSE,FALSE,FALSE
+Untwist,413529,199749,Timestream Anomaly,Rise,FALSE,FALSE,FALSE,FALSE
+Untwist,413536,199749,Timestream Anomaly,Rise,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418086,206068,Temporal Fusion,Rise,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418085,206068,Temporal Fusion,Rise,FALSE,FALSE,FALSE,FALSE
+Triple Strike,413489,206068,Temporal Fusion,Rise,FALSE,FALSE,FALSE,FALSE
+Triple Strike,413487,206068,Temporal Fusion,Rise,FALSE,FALSE,FALSE,FALSE
+Double Strike,413473,206063,Temporal Deviation,Rise,FALSE,FALSE,FALSE,FALSE
+Double Strike,413474,206063,Temporal Deviation,Rise,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418086,206063,Temporal Deviation,Rise,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,418085,206063,Temporal Deviation,Rise,FALSE,FALSE,FALSE,FALSE
+Temporal Loophole,418103,208698,Infinite Riftmage,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Burn,418200,208698,Infinite Riftmage,Rise,TRUE,TRUE,FALSE,FALSE
+Temporal Blast,418202,208698,Infinite Riftmage,Rise,TRUE,FALSE,FALSE,FALSE
+Temporal Link,419512,206070,Chronaxie,Rise,FALSE,FALSE,FALSE,FALSE
+Temporal Link,419511,206070,Chronaxie,Rise,FALSE,FALSE,FALSE,FALSE
+Chronal Eruption,419516,206070,Chronaxie,Rise,FALSE,FALSE,FALSE,FALSE
+Chronal Eruption,419517,206070,Chronaxie,Rise,FALSE,FALSE,FALSE,FALSE
+Time Beam,413427,206074,Pendule,Rise,TRUE,FALSE,FALSE,FALSE
+Time Beam,413428,206074,Pendule,Rise,TRUE,FALSE,FALSE,FALSE
+Volatile Mortar,407312,208208,Alliance Destroyer,Rise,FALSE,FALSE,FALSE,FALSE
+Volatile Mortar,407205,208208,Alliance Destroyer,Rise,FALSE,FALSE,FALSE,FALSE
+Deploy Dwarven Bombers,418684,208208,Alliance Destroyer,Rise,FALSE,FALSE,FALSE,FALSE
+Shrapnel,407313,208208,Alliance Destroyer,Rise,FALSE,FALSE,FALSE,FALSE
+Embers,407315,208208,Alliance Destroyer,Rise,FALSE,FALSE,FALSE,FALSE
+Shrapnel Shell,407317,208208,Alliance Destroyer,Rise,FALSE,FALSE,FALSE,FALSE
+Consecration,416999,208193,Paladin of the Silver Hand,Rise,FALSE,FALSE,FALSE,FALSE
+Consecration,417002,208193,Paladin of the Silver Hand,Rise,FALSE,FALSE,FALSE,FALSE
+Holy Light,417011,208193,Paladin of the Silver Hand,Rise,TRUE,TRUE,FALSE,FALSE
+Rallying Shout,407124,208165,Alliance Knight,Rise,TRUE,TRUE,FALSE,FALSE
+Sundering Slam,407125,208165,Alliance Knight,Rise,FALSE,FALSE,FALSE,FALSE
+Bladestorm,410234,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Bladestorm,410238,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Bladestorm,410235,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Bladestorm,410236,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Mortal Wounds,410497,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Mortal Strikes,418061,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Mortal Strikes,418059,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Shockwave,418054,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Shockwave,418056,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+FOR THE ALLIANCE!,418047,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Battles Senses,419616,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Battles Senses,419611,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Battles Senses,419609,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Battle Cry,418062,203679,Anduin Lothar,Rise,FALSE,FALSE,FALSE,FALSE
+Blizzard,417026,206351,Alliance Conjurer,Rise,TRUE,TRUE,TRUE,FALSE
+Blizzard,417018,206351,Alliance Conjurer,Rise,TRUE,TRUE,TRUE,FALSE
+Fireball,417030,206351,Alliance Conjurer,Rise,TRUE,TRUE,TRUE,FALSE
+Shoot,415215,206352,Alliance Archer,Rise,FALSE,FALSE,FALSE,FALSE
+Serrated Arrows,418009,206352,Alliance Archer,Rise,FALSE,FALSE,TRUE,TRUE
+Millenium Aid,411952,205337,Infinite Timebender,Rise,FALSE,FALSE,FALSE,FALSE
+Millenium Aid,411949,205337,Infinite Timebender,Rise,FALSE,FALSE,FALSE,FALSE
+Millenium Aid,412029,205337,Infinite Timebender,Rise,FALSE,FALSE,FALSE,FALSE
+Millenium Defense,411969,205337,Infinite Timebender,Rise,FALSE,TRUE,FALSE,FALSE
+Dizzying Sands,412378,205337,Infinite Timebender,Rise,TRUE,TRUE,FALSE,FALSE
+Bubbly Barrage,411610,205363,Time-Lost Waveshaper,Rise,FALSE,FALSE,FALSE,FALSE
+Bubbly Barrage,411407,205363,Time-Lost Waveshaper,Rise,FALSE,FALSE,FALSE,FALSE
+Fish Bolt Volley,411300,205363,Time-Lost Waveshaper,Rise,TRUE,TRUE,FALSE,FALSE
+Soggy Bank,411644,205365,Time-Lost Tidehunter,Rise,FALSE,FALSE,FALSE,FALSE
+Slobbering Bite,411700,205365,Time-Lost Tidehunter,Rise,FALSE,FALSE,FALSE,FALSE
+Bombing Run,412156,205723,Time-Lost Aerobot,Rise,FALSE,FALSE,FALSE,FALSE
+Bombing Run,412181,205723,Time-Lost Aerobot,Rise,FALSE,FALSE,FALSE,FALSE
+Electro-Juiced Gigablast,412200,205723,Time-Lost Aerobot,Rise,FALSE,FALSE,FALSE,FALSE
+Electro-Juiced Gigablast,412225,205723,Time-Lost Aerobot,Rise,FALSE,FALSE,FALSE,FALSE
+Rocket Bolt Volley,412233,205727,Time-Lost Rocketeer,Rise,TRUE,TRUE,FALSE,FALSE
+Staticky Punch,412262,205727,Time-Lost Rocketeer,Rise,FALSE,FALSE,FALSE,FALSE
+More Problems!,403891,198999,Morchie,Rise,FALSE,FALSE,FALSE,FALSE
+Familiar Faces,405279,198999,Morchie,Rise,FALSE,FALSE,FALSE,FALSE
+Familiar Faces,407504,198999,Morchie,Rise,FALSE,FALSE,FALSE,FALSE
+Sand Blast,404917,198999,Morchie,Rise,FALSE,FALSE,FALSE,FALSE
+Sand Blast,404916,198999,Morchie,Rise,FALSE,FALSE,FALSE,FALSE
+Time Traps,406481,198999,Morchie,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Fury,413623,208440,Infinite Slayer,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Fury,413622,208440,Infinite Slayer,Rise,FALSE,FALSE,FALSE,FALSE
+Bronze Exhalation,419351,208440,Infinite Slayer,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Blast,411763,205212,Infinite Keeper,Rise,FALSE,FALSE,FALSE,FALSE
+Chronal Burn,412027,205212,Infinite Keeper,Rise,FALSE,FALSE,FALSE,FALSE
+Time-Displacement,411023,205265,Time-Displaced Trooper,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Corruption,416290,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Corruption,416264,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Corruption,416265,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Infinite Corruption,416266,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Summon Infinite Keeper,416152,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Temporal Scar,417413,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Infinity Orb,410904,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Infinity Nova,410908,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Temporal Shift,419596,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Temporal Breath,416139,199000,Chrono-Lord Deios,Rise,FALSE,FALSE,FALSE,FALSE
+Nightmare Toxin,200684,101679,Dreadsoul Poisoner,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Nightmare Eruption,200686,101679,Dreadsoul Poisoner,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Grievous Rip,225484,95772,Frenzied Nightclaw,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Unnerving Screech,200630,95769,Mindshattered Screecher,Darkheart Thicket,TRUE,TRUE,FALSE,FALSE
+Unnerving Screech,200631,95769,Mindshattered Screecher,Darkheart Thicket,TRUE,TRUE,FALSE,FALSE
+Spew Corruption,218755,95779,Festerhide Grizzly,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Maddening Roar,200580,95779,Festerhide Grizzly,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Corruption Pool,218759,95779,Festerhide Grizzly,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Star Shower,200658,95771,Dreadsoul Ruiner,Darkheart Thicket,TRUE,TRUE,FALSE,FALSE
+Star Shower,204402,95771,Dreadsoul Ruiner,Darkheart Thicket,TRUE,TRUE,FALSE,FALSE
+Despair,200642,95771,Dreadsoul Ruiner,Darkheart Thicket,TRUE,TRUE,FALSE,FALSE
+Propelling Charge,200768,95766,Crazed Razorbeak,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Propelling Charge,200771,95766,Crazed Razorbeak,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Nightfall,212464,96512,Archdruid Glaidalis,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Nightfall,198408,96512,Archdruid Glaidalis,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Primal Rampage,198376,96512,Archdruid Glaidalis,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Primal Rampage,198379,96512,Archdruid Glaidalis,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Primal Rampage,198386,96512,Archdruid Glaidalis,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Grievous Leap,196354,96512,Archdruid Glaidalis,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Grievous Leap,196376,96512,Archdruid Glaidalis,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Grievous Leap,198269,96512,Archdruid Glaidalis,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Throw Spear,198723,99358,Rotheart Dryad,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Poison Spear,198904,99358,Rotheart Dryad,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Root Burst,201123,99360,Vilethorn Blossom,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Root Burst,201129,99360,Vilethorn Blossom,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Corrupted Infusion,225497,99359,Rotheart Keeper,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Vile Mushroom,198910,99359,Rotheart Keeper,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Tormenting Eye,204243,101991,Nightmare Dweller,Darkheart Thicket,TRUE,TRUE,TRUE,TRUE
+Awakening Roots,204852,101991,Nightmare Dweller,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Tormenting Fear,204246,101991,Nightmare Dweller,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Uproot,212786,103344,Oakheart,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Nightmare Breath,204667,103344,Oakheart,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Crushing Grip,204646,103344,Oakheart,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Crushing Grip,204611,103344,Oakheart,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Strangling Roots,199051,103344,Oakheart,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Strangling Roots,204574,103344,Oakheart,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Shattered Earth,204666,103344,Oakheart,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Dreadburst,201191,100529,Hatespawn Slime,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Blood Bomb,201273,100531,Bloodtainted Fury,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Blood Bomb,201272,100531,Bloodtainted Fury,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Blood Assault,201226,100531,Bloodtainted Fury,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Blood Assault,201227,100531,Bloodtainted Fury,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Blood Bolt,201298,100532,Bloodtainted Burster,Darkheart Thicket,TRUE,TRUE,FALSE,FALSE
+Blood Metamorphosis,225562,100532,Bloodtainted Burster,Darkheart Thicket,TRUE,TRUE,TRUE,TRUE
+Dispersion,201250,100531,Bloodtainted Fury,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Breath of Corruption,191326,99200,Dresaron,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Earthshaking Roar,218587,99200,Dresaron,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Earthshaking Roar,199389,99200,Dresaron,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Down Draft,199345,99200,Dresaron,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Down Draft,220855,99200,Dresaron,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Falling Rocks,199460,99200,Dresaron,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Dread Inferno,201400,100527,Dreadfire Imp,Darkheart Thicket,TRUE,TRUE,TRUE,TRUE
+Dread Inferno,201399,100527,Dreadfire Imp,Darkheart Thicket,TRUE,TRUE,TRUE,TRUE
+Firebolt,201411,100527,Dreadfire Imp,Darkheart Thicket,TRUE,FALSE,FALSE,FALSE
+Shadow Bolt,201837,99366,Taintheart Summoner,Darkheart Thicket,TRUE,FALSE,FALSE,FALSE
+Curse of Isolation,201839,99366,Taintheart Summoner,Darkheart Thicket,TRUE,FALSE,FALSE,FALSE
+Curse of Isolation,201842,99366,Taintheart Summoner,Darkheart Thicket,TRUE,FALSE,FALSE,FALSE
+Dark Hunt,201517,99365,Taintheart Stalker,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Dark Hunt,201564,99365,Taintheart Stalker,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Darksoul Bite,201361,100526,Tormented Bloodseeker,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Darksoul Drain,201365,100526,Tormented Bloodseeker,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Shoot,201858,100539,Taintheart Deadeye,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Scorching Shot,201902,100539,Taintheart Deadeye,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Shadow Decoy,201885,100539,Taintheart Deadeye,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Festering Rip,200182,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Growing Paranoia,200289,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Overwhelming Terror,200329,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Induced Paranoia,200359,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Apocalyptic Fire,200111,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Apocalyptic Nightmare,200050,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Apocalyptic Nightmare,204502,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Feed on the Weak,200238,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Nightmare Bolt,200185,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Apocalyptic Empowerment,221315,99192,Shade of Xavius,Darkheart Thicket,FALSE,FALSE,FALSE,FALSE
+Sacrifice Soul,200099,98368,Ghostly Protector,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Sacrifice Soul,200105,98368,Ghostly Protector,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Soul Blade,200084,98366,Ghostly Retainer,Blackrook Hold,TRUE,FALSE,FALSE,FALSE
+Soul Blast,199663,98370,Ghostly Councilor,Blackrook Hold,TRUE,FALSE,FALSE,FALSE
+Glaive Toss,196916,98538,Lady Velandras Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Strike Down,225732,98538,Lady Velandras Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Soul Echoes,194966,98542,Amalgam of Souls,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Swirling Scythe,195254,98542,Amalgam of Souls,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Reap Soul,194956,98542,Amalgam of Souls,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Call Souls,196078,98542,Amalgam of Souls,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Soul Burst,196587,98542,Amalgam of Souls,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Soul Venom,225909,98677,Rook Spiderling,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Soul Venom,225909,98681,Rook Spinner,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Knife Dance,200291,98691,Risen Scout,Blackrook Hold,FALSE,TRUE,TRUE,TRUE
+Knife Dance,200325,98691,Risen Scout,Blackrook Hold,FALSE,TRUE,TRUE,TRUE
+Bonebreaking Strike,200261,98243,Soul-Torn Champion,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Shoot,193633,98275,Risen Archer,Blackrook Hold,FALSE,FALSE,TRUE,FALSE
+Arrow Barrage,200343,98275,Risen Archer,Blackrook Hold,FALSE,TRUE,TRUE,TRUE
+Arrow Barrage,200345,98275,Risen Archer,Blackrook Hold,FALSE,TRUE,TRUE,TRUE
+Arrow Barrage,200344,98275,Risen Archer,Blackrook Hold,FALSE,TRUE,TRUE,TRUE
+Arcane Blitz,200248,98280,Risen Arcanist,Blackrook Hold,TRUE,TRUE,FALSE,FALSE
+Phased Explosion,200256,101549,Arcane Minion,Blackrook Hold,FALSE,FALSE,TRUE,TRUE
+Bloodthirsty Leap,225963,101839,Risen Companion,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Bloodthirsty Leap,225962,101839,Risen Companion,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Adaptive Swarm,391889,101839,Risen Companion,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Bonebreaking Strike,200261,98706,Commander Shemdah'sohn,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Blazing Trail,197521,98696,Illysana Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Eye Beams,197696,98696,Illysana Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Vengeful Shear,197418,98696,Illysana Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Leap,197622,98696,Illysana Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Brutal Glaive,197546,98696,Illysana Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Dark Rush,197484,98696,Illysana Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Dark Rush,197478,98696,Illysana Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Gaining Energy,197394,98696,Illysana Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Dizzy,201070,98792,Wyrmtongue Scavenger,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Drink Ancient Potion,200784,98792,Wyrmtongue Scavenger,Blackrook Hold,FALSE,TRUE,TRUE,TRUE
+Throw Priceless Artifact,201176,98792,Wyrmtongue Scavenger,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Throw Priceless Artifact,201175,98792,Wyrmtongue Scavenger,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Indigestion,200913,98792,Wyrmtongue Scavenger,Blackrook Hold,FALSE,TRUE,FALSE,FALSE
+Indigestion,200914,98792,Wyrmtongue Scavenger,Blackrook Hold,FALSE,TRUE,FALSE,FALSE
+Bowled Over!,201062,98792,Wyrmtongue Scavenger,Blackrook Hold,FALSE,TRUE,TRUE,FALSE
+Brutal Assault,201139,98810,Wrathguard Bladelord,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Brutal Assault,201141,98810,Wrathguard Bladelord,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Enrage,8599,98810,Wrathguard Bladelord,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Drain Life,204896,98813,Bloodscent Felhound,Blackrook Hold,TRUE,FALSE,FALSE,FALSE
+Sic Bats!,203163,102788,Felspite Dominator,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Felfrenzy,227913,102788,Felspite Dominator,Blackrook Hold,TRUE,TRUE,FALSE,FALSE
+Brutal Haymaker,198245,98949,Smashspite the Hateful,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Hateful Charge,224188,98949,Smashspite the Hateful,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Hateful Charge,198080,98949,Smashspite the Hateful,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Hateful Gaze,198079,98949,Smashspite the Hateful,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Earthshaking Stomp,198073,98949,Smashspite the Hateful,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Raven's Dive,214001,102095,Risen Lancer,Blackrook Hold,FALSE,FALSE,TRUE,TRUE
+Raven's Dive,214002,102095,Risen Lancer,Blackrook Hold,FALSE,FALSE,TRUE,TRUE
+Coup de Grace,214003,102094,Risen Swordsman,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Unerring Shear,198635,98965,Kur'talos Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Whirling Blade,198641,98965,Kur'talos Ravencrest,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Shadow Bolt Volley,202019,98970,Dantalionax,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Dark Obliteration,241672,98970,Dantalionax,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Shadow Bolt,198833,98970,Dantalionax,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Dark Blast,198820,98970,Dantalionax,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Cloud of Hypnosis,199143,98970,Dantalionax,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Dreadlord's Guile,199193,98970,Dantalionax,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Stinging Swarm,201733,98970,Dantalionax,Blackrook Hold,FALSE,FALSE,FALSE,FALSE
+Fragments of Time,404650,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Fragments of Time,405431,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Accelerating Time,403912,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Accelerating Time,405671,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Chrono-faded,404141,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Chrono-faded,405478,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Chrono-faded,405696,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Sand Zone,413329,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Sand Zone,413332,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Decaying Time,405672,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Decaying Time,403910,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Chaotic Time,415359,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Errant Time,414032,198996,Manifested Timeways,Fall,FALSE,FALSE,FALSE,FALSE
+Warding Candles,264027,135240,Soul Essence,Waycrest,FALSE,FALSE,FALSE,FALSE
+Scar Soul,267824,135240,Soul Essence,Waycrest,TRUE,FALSE,FALSE,FALSE
+Etch,263943,131677,Heartsbane Runeweaver,Waycrest,FALSE,FALSE,FALSE,FALSE
+Runic Mark,264105,131677,Heartsbane Runeweaver,Waycrest,FALSE,FALSE,FALSE,FALSE
+Infected Thorn,264050,135474,Thistle Acolyte,Waycrest,TRUE,TRUE,TRUE,TRUE
+Drain Essence,136068,135474,Thistle Acolyte,Waycrest,TRUE,FALSE,FALSE,FALSE
+Toad Blight,265352,135052,Blight Toad,Waycrest,FALSE,FALSE,FALSE,FALSE
+Shadow Cleave,265372,131587,Bewitched Captain,Waycrest,FALSE,FALSE,FALSE,FALSE
+Warding Candles,264027,131587,Bewitched Captain,Waycrest,FALSE,FALSE,FALSE,FALSE
+Spirited Defense,265368,131587,Bewitched Captain,Waycrest,TRUE,TRUE,FALSE,FALSE
+Warding Candles,264027,131585,Enthralled Guard,Waycrest,FALSE,FALSE,FALSE,FALSE
+Focused Strike,265371,131585,Enthralled Guard,Waycrest,FALSE,FALSE,FALSE,FALSE
+Spellbind,264390,131685,Runic Disciple,Waycrest,FALSE,TRUE,FALSE,FALSE
+Runic Bolt,426541,131685,Runic Disciple,Waycrest,TRUE,FALSE,FALSE,FALSE
+Thorned Claw,264140,131669,Jagged Hound,Waycrest,FALSE,FALSE,FALSE,FALSE
+Uproot,264038,131666,Coven Thornshaper,Waycrest,FALSE,FALSE,FALSE,FALSE
+Uproot,278849,131666,Coven Thornshaper,Waycrest,FALSE,FALSE,FALSE,FALSE
+Infected Thorn,264050,131666,Coven Thornshaper,Waycrest,TRUE,TRUE,TRUE,TRUE
+Enrage,257260,131858,Thornguard,Waycrest,FALSE,FALSE,FALSE,FALSE
+Shatter,264150,131858,Thornguard,Waycrest,FALSE,FALSE,FALSE,FALSE
+Tearing Strike,264556,131858,Thornguard,Waycrest,FALSE,FALSE,FALSE,FALSE
+Snout Smack,265337,135048,Gorestained Piglet,Waycrest,FALSE,FALSE,FALSE,FALSE
+Withering Glob,264665,134041,Infected Peasant,Waycrest,FALSE,FALSE,FALSE,FALSE
+Infected,266008,134041,Infected Peasant,Waycrest,FALSE,FALSE,FALSE,FALSE
+Infest,278444,134024,Devouring Maggot,Waycrest,TRUE,TRUE,TRUE,TRUE
+Infest,278456,134024,Devouring Maggot,Waycrest,TRUE,TRUE,TRUE,TRUE
+Spit,264153,134024,Devouring Maggot,Waycrest,FALSE,FALSE,FALSE,FALSE
+Parasitic,278431,134024,Devouring Maggot,Waycrest,FALSE,FALSE,FALSE,FALSE
+Ravaging Leap,271175,137830,Pallid Gorger,Waycrest,FALSE,FALSE,FALSE,FALSE
+Ravaging Leap,271178,137830,Pallid Gorger,Waycrest,FALSE,FALSE,FALSE,FALSE
+Retch,271174,137830,Pallid Gorger,Waycrest,TRUE,TRUE,TRUE,TRUE
+Punch,265410,131847,Waycrest Reveler,Waycrest,FALSE,FALSE,FALSE,FALSE
+Meaty Rampage,265393,131586,Banquet Steward,Waycrest,FALSE,FALSE,FALSE,FALSE
+Meaty Rampage,265391,131586,Banquet Steward,Waycrest,FALSE,FALSE,FALSE,FALSE
+Meaty Rampage,265392,131586,Banquet Steward,Waycrest,FALSE,FALSE,FALSE,FALSE
+Dinner Bell,265407,131586,Banquet Steward,Waycrest,FALSE,FALSE,FALSE,FALSE
+Runic Blade,256921,131821,Faceless Maiden,Waycrest,FALSE,FALSE,FALSE,FALSE
+Horrific Visage,264407,131821,Faceless Maiden,Waycrest,FALSE,FALSE,FALSE,FALSE
+Runic Blade,256922,131821,Faceless Maiden,Waycrest,FALSE,FALSE,FALSE,FALSE
+Pallid Glare,265346,135049,Dreadwing Raven,Waycrest,FALSE,FALSE,FALSE,FALSE
+Warding Candles,264027,135049,Dreadwing Raven,Waycrest,FALSE,FALSE,FALSE,FALSE
+Peck,265347,135049,Dreadwing Raven,Waycrest,FALSE,FALSE,FALSE,FALSE
+Severing Serpent,264520,131850,Maddened Survivalist,Waycrest,FALSE,FALSE,FALSE,FALSE
+Shrapnel Trap,264525,131850,Maddened Survivalist,Waycrest,FALSE,FALSE,FALSE,FALSE
+Shrapnel Trap,264531,131850,Maddened Survivalist,Waycrest,FALSE,FALSE,FALSE,FALSE
+Diseased Crunch,265642,135234,Diseased Mastiff,Waycrest,FALSE,FALSE,FALSE,FALSE
+Shoot,264510,131849,Crazed Marksman,Waycrest,FALSE,FALSE,FALSE,FALSE
+Warding Candles,264027,131812,Heartsbane Soulcharmer,Waycrest,FALSE,FALSE,FALSE,FALSE
+Warding Candles,263961,131812,Heartsbane Soulcharmer,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Volley,263959,131812,Heartsbane Soulcharmer,Waycrest,TRUE,TRUE,FALSE,FALSE
+Soul Bolt,264024,131812,Heartsbane Soulcharmer,Waycrest,TRUE,FALSE,FALSE,FALSE
+Soul Bolt,426596,131819,Coven Diviner,Waycrest,TRUE,FALSE,FALSE,FALSE
+Warding Candles,264027,131819,Coven Diviner,Waycrest,FALSE,FALSE,FALSE,FALSE
+Fragment Soul,264378,131819,Coven Diviner,Waycrest,FALSE,FALSE,FALSE,FALSE
+Dark Leap,273657,139269,Gloom Horror,Waycrest,FALSE,FALSE,FALSE,FALSE
+Dark Leap,273658,139269,Gloom Horror,Waycrest,FALSE,FALSE,FALSE,FALSE
+Thorned Barrage,265760,135329,Matron Bryndle,Waycrest,FALSE,FALSE,FALSE,FALSE
+Thorned Barrage,265761,135329,Matron Bryndle,Waycrest,FALSE,FALSE,FALSE,FALSE
+Splinter Spike,265741,135329,Matron Bryndle,Waycrest,FALSE,FALSE,FALSE,FALSE
+Splinter Spike,265757,135329,Matron Bryndle,Waycrest,FALSE,FALSE,FALSE,FALSE
+Drain Soul Essence,265759,135329,Matron Bryndle,Waycrest,FALSE,FALSE,FALSE,FALSE
+Ruinous Volley,265876,135365,Matron Alma,Waycrest,TRUE,TRUE,FALSE,FALSE
+Dread Mark,265880,135365,Matron Alma,Waycrest,FALSE,FALSE,FALSE,FALSE
+Decaying Touch,265881,135365,Matron Alma,Waycrest,FALSE,FALSE,FALSE,FALSE
+Lingering Dead,265882,135365,Matron Alma,Waycrest,FALSE,FALSE,FALSE,FALSE
+Aura of Thorns,268126,131825,Sister Briar,Waycrest,FALSE,FALSE,FALSE,FALSE
+Bramble Bolt,260697,131825,Sister Briar,Waycrest,TRUE,FALSE,FALSE,FALSE
+Claim the iris,260852,131825,Sister Briar,Waycrest,FALSE,FALSE,FALSE,FALSE
+Jagged Nettles,260741,131825,Sister Briar,Waycrest,FALSE,FALSE,FALSE,FALSE
+Focusing Iris,260805,131825,Sister Briar,Waycrest,FALSE,FALSE,FALSE,FALSE
+Bramble Bolt,260701,131825,Sister Briar,Waycrest,TRUE,FALSE,FALSE,FALSE
+Aura of Thorns,268122,131825,Sister Briar,Waycrest,FALSE,FALSE,FALSE,FALSE
+Ironbark Shield,261265,131825,Sister Briar,Waycrest,FALSE,FALSE,FALSE,FALSE
+Ruinous Bolt,260696,131823,Sister Malady,Waycrest,TRUE,FALSE,FALSE,FALSE
+Claim the iris,260852,131823,Sister Malady,Waycrest,FALSE,FALSE,FALSE,FALSE
+Runic Ward,261266,131823,Sister Malady,Waycrest,FALSE,FALSE,FALSE,FALSE
+Ruinous Bolt,260700,131823,Sister Malady,Waycrest,TRUE,FALSE,FALSE,FALSE
+Aura of Dead,268088,131823,Sister Malady,Waycrest,FALSE,FALSE,FALSE,FALSE
+Focusing Iris,260805,131823,Sister Malady,Waycrest,FALSE,FALSE,FALSE,FALSE
+Unstable Runic Mark,260703,131823,Sister Malady,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Armor,261264,131824,Sister Solena,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Bolt,260698,131824,Sister Solena,Waycrest,TRUE,FALSE,FALSE,FALSE
+Focusing Iris,260805,131824,Sister Solena,Waycrest,FALSE,FALSE,FALSE,FALSE
+Claim the Iris,260852,131824,Sister Solena,Waycrest,FALSE,FALSE,FALSE,FALSE
+Aura of Apathy,268077,131824,Sister Solena,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Manipulation,260907,131824,Sister Solena,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Bolt,260699,131824,Sister Solena,Waycrest,TRUE,FALSE,FALSE,FALSE
+Soul Manipulation,260926,131824,Sister Solena,Waycrest,FALSE,FALSE,FALSE,FALSE
+Master Marksman,269576,131824,Sister Solena,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Manipulation,260900,131824,Sister Solena,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Manipulation,260923,131824,Sister Solena,Waycrest,FALSE,FALSE,FALSE,FALSE
+Crush,260508,131667,Soulbound Goliath,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Thorns,260551,131667,Soulbound Goliath,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Harvest,260512,131667,Soulbound Goliath,Waycrest,FALSE,FALSE,FALSE,FALSE
+Burning Brush,260541,131667,Soulbound Goliath,Waycrest,FALSE,FALSE,FALSE,FALSE
+Burning Brush,260547,131667,Soulbound Goliath,Waycrest,FALSE,FALSE,FALSE,FALSE
+Rotten Expulsion,264694,131863,Raal the Gluttonous,Waycrest,FALSE,FALSE,FALSE,FALSE
+Gluttonous Bile,426590,131863,Raal the Gluttonous,Waycrest,FALSE,FALSE,FALSE,FALSE
+Rotten Expulsion,264698,131863,Raal the Gluttonous,Waycrest,FALSE,FALSE,FALSE,FALSE
+Rotten Expulsion,264693,131863,Raal the Gluttonous,Waycrest,FALSE,FALSE,FALSE,FALSE
+Consume Servant,265002,131863,Raal the Gluttonous,Waycrest,FALSE,FALSE,FALSE,FALSE
+Call Servant,264931,131863,Raal the Gluttonous,Waycrest,FALSE,FALSE,FALSE,FALSE
+Consume All,264734,131863,Raal the Gluttonous,Waycrest,FALSE,FALSE,FALSE,FALSE
+Tenderize,264923,131863,Raal the Gluttonous,Waycrest,FALSE,FALSE,FALSE,FALSE
+Wracking Chord,268271,131545,Lady Waycrest,Waycrest,FALSE,FALSE,FALSE,FALSE
+Vitality Transfer,261446,131545,Lady Waycrest,Waycrest,FALSE,FALSE,FALSE,FALSE
+Soul Armor,271590,131545,Lady Waycrest,Waycrest,FALSE,FALSE,FALSE,FALSE
+Discordant Cadenza,268308,131545,Lady Waycrest,Waycrest,FALSE,FALSE,FALSE,FALSE
+Discordant Cadenza,268306,131545,Lady Waycrest,Waycrest,FALSE,FALSE,FALSE,FALSE
+Wracking Chord,268278,131545,Lady Waycrest,Waycrest,FALSE,TRUE,FALSE,FALSE
+Virulent Pathogen,261439,131527,Lord Waycrest,Waycrest,FALSE,FALSE,FALSE,FALSE
+Wasting Strike,261438,131527,Lord Waycrest,Waycrest,FALSE,FALSE,FALSE,FALSE
+Virulent Pathogen,261440,131527,Lord Waycrest,Waycrest,FALSE,FALSE,FALSE,FALSE
+Putrid Vitality,261447,131527,Lord Waycrest,Waycrest,FALSE,FALSE,FALSE,FALSE
+Summon Deathtouched Slaver,266266,131864,Gorak Tul,Waycrest,FALSE,FALSE,TRUE,TRUE
+Darkened Lightning,266225,131864,Gorak Tul,Waycrest,TRUE,TRUE,FALSE,FALSE
+Dead Essence,266181,131864,Gorak Tul,Waycrest,FALSE,FALSE,FALSE,FALSE
+Venom-Tipped Blade,252661,122970,Shadowblade Stalker,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Fan of Knives,427000,122970,Shadowblade Stalker,Atal'Dazar,FALSE,TRUE,FALSE,FALSE
+Waylaying Jab,252692,122970,Shadowblade Stalker,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Venom-Tipped Blade,252666,122970,Shadowblade Stalker,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Venomfang Strike,252687,122970,Shadowblade Stalker,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Rotting Decay,256959,127757,Reanimated Honor Guard,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Rotting Decay,256960,127757,Reanimated Honor Guard,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Rending Maul,255814,127757,Reanimated Honor Guard,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Festering Eruption,255626,127757,Reanimated Honor Guard,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Festering Eruption,255620,127757,Reanimated Honor Guard,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Bulwark of Juju,258653,127757,Reanimated Honor Guard,Atal'Dazar,FALSE,FALSE,TRUE,TRUE
+Shield Bash,273185,127879,Shieldbearer of Zul,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Bulwark of Juju,253721,127879,Shieldbearer of Zul,Atal'Dazar,FALSE,FALSE,TRUE,TRUE
+Bulwark of Juju,258653,127879,Shieldbearer of Zul,Atal'Dazar,FALSE,FALSE,TRUE,TRUE
+Unstable Hex,252781,122969,Zanchuli Witch-Doctor,Atal'Dazar,TRUE,TRUE,FALSE,FALSE
+Venom Blast,252923,122969,Zanchuli Witch-Doctor,Atal'Dazar,TRUE,TRUE,FALSE,FALSE
+Bulwark of Juju,258653,122969,Zanchuli Witch-Doctor,Atal'Dazar,FALSE,FALSE,TRUE,TRUE
+Terrifying Screech,255041,128434,Feasting Skyscreamer,Atal'Dazar,TRUE,TRUE,FALSE,FALSE
+Leaping Thrash,251188,128435,Toxic Saurid,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Leaping Thrash,251187,128435,Toxic Saurid,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Poisoned Claws,255895,128435,Toxic Saurid,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Bwonsamdi's Mantle,253548,127799,Dazar'ai Honor Guard,Atal'Dazar,TRUE,TRUE,TRUE,FALSE
+Fervent Strike,256138,127799,Dazar'ai Honor Guard,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Bwonsamdi's Mantle,253548,122972,Dazar'ai Augur,Atal'Dazar,TRUE,TRUE,TRUE,FALSE
+Wildfire,253562,122972,Dazar'ai Augur,Atal'Dazar,TRUE,FALSE,FALSE,FALSE
+Fiery Enchant,253583,122972,Dazar'ai Augur,Atal'Dazar,TRUE,TRUE,FALSE,FALSE
+Transfusion,260668,132126,Gilded Priestess,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Transfusion,260667,132126,Gilded Priestess,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Transfusion,260666,132126,Gilded Priestess,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Fiery Enchant,253654,122971,Dazar'ai Juggernaut,Atal'Dazar,TRUE,TRUE,FALSE,FALSE
+Merciless Assault,253279,122971,Dazar'ai Juggernaut,Atal'Dazar,FALSE,FALSE,TRUE,FALSE
+Fanatic's Rage,255824,122971,Dazar'ai Juggernaut,Atal'Dazar,TRUE,TRUE,FALSE,FALSE
+Merciless Assault,253239,122971,Dazar'ai Juggernaut,Atal'Dazar,FALSE,FALSE,TRUE,FALSE
+Bwonsamdi's Mantle,253548,122971,Dazar'ai Juggernaut,Atal'Dazar,TRUE,TRUE,TRUE,FALSE
+Fiery Bolt,253666,122971,Dazar'ai Juggernaut,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Gathered Souls,254974,122973,Dazar'ai Confessor,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Bwonsamdi's Mantle,253548,122973,Dazar'ai Confessor,Atal'Dazar,TRUE,TRUE,TRUE,FALSE
+Mending Word,253517,122973,Dazar'ai Confessor,Atal'Dazar,TRUE,TRUE,FALSE,FALSE
+Bwonsamdi's Mantle,253544,122973,Dazar'ai Confessor,Atal'Dazar,TRUE,TRUE,TRUE,FALSE
+Soulforged Construct,254958,122984,Dazar'ai Colossus,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Soulburn,254959,122984,Dazar'ai Colossus,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Deadeye Aim,256846,129553,Dinomancer Kish'o,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Quickshot,256864,129553,Dinomancer Kish'o,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Dino Might,256849,129553,Dinomancer Kish'o,Atal'Dazar,TRUE,TRUE,FALSE,FALSE
+Wild Thrash,256882,129552,Monzumi,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Wild Thrash,256884,129552,Monzumi,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Frenzied Charge,255567,128455,T'lonja,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Pursuit,257407,122963,Rezan,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Terrifying Visage,255371,122963,Rezan,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Tail,255372,122963,Rezan,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Tail,255373,122963,Rezan,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Serrated Teeth,255434,122963,Rezan,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Devour,255445,122963,Rezan,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Devour,255421,122963,Rezan,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Toxic Leap,250259,122965,Vol'kaal,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Lingering Nausea,250372,122965,Vol'kaal,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Rapid Decay,250241,122965,Vol'kaal,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Noxious Stench,250368,122965,Vol'kaal,Atal'Dazar,TRUE,FALSE,FALSE,FALSE
+Lingering Nausea,259574,122965,Vol'kaal,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Toxic Leap,250258,122965,Vol'kaal,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Noxious Stench,259572,122965,Vol'kaal,Atal'Dazar,TRUE,FALSE,FALSE,FALSE
+Gilded Claws,255579,122967,Priestess Alun'za,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Gilded Claws,255581,122967,Priestess Alun'za,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Transfusion,255575,122967,Priestess Alun'za,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Transfusion,255835,122967,Priestess Alun'za,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Transfusion,255577,122967,Priestess Alun'za,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Transfusion,255836,122967,Priestess Alun'za,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Molten Gold,255591,122967,Priestess Alun'za,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Echoes of Shadra,257066,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Echoes of Shadra,250050,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Echoes of Shadra,250022,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Skewer,249919,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Soulrend,259191,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Echoes of Shadra,250028,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Wracking Pain,250096,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Glimmer of Light,418339,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Soulrend,259187,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Soulfeast,256577,122968,Yazma,Atal'Dazar,FALSE,FALSE,FALSE,FALSE
+Dreadpetal Pollen,164885,81864,Dreadpetal,Everbloom,FALSE,FALSE,FALSE,FALSE
+Dreadpetal Pollen,164886,81864,Dreadpetal,Everbloom,FALSE,FALSE,FALSE,FALSE
+Enraged Growth,165213,81985,Everbloom Cultivator,Everbloom,TRUE,TRUE,TRUE,TRUE
+Choking Vines,164965,81819,Everbloom Naturalist,Everbloom,TRUE,TRUE,TRUE,TRUE
+Dancing Thorns,164973,81819,Everbloom Naturalist,Everbloom,TRUE,FALSE,FALSE,FALSE
+Bounding Whirl,172579,86372,Melded Berserker,Everbloom,FALSE,FALSE,FALSE,FALSE
+Bounding Whirl,172578,86372,Melded Berserker,Everbloom,FALSE,FALSE,FALSE,FALSE
+Enraged Growth,38166,86372,Melded Berserker,Everbloom,TRUE,TRUE,TRUE,TRUE
+Poisonous Claws,169657,84767,Twisted Abomination,Everbloom,FALSE,FALSE,FALSE,FALSE
+Noxious Eruption,169445,84767,Twisted Abomination,Everbloom,FALSE,FALSE,FALSE,FALSE
+Poisonous Claws,169658,84767,Twisted Abomination,Everbloom,FALSE,FALSE,FALSE,FALSE
+Healing Waters,164887,81820,Everbloom Mender,Everbloom,TRUE,TRUE,TRUE,TRUE
+Venom Burst,165123,82039,Rockspine Stinger,Everbloom,FALSE,FALSE,FALSE,FALSE
+Frostbolt,169840,84989,Infested Icecaller,Everbloom,TRUE,TRUE,FALSE,FALSE
+Cold Fusion,426845,84989,Infested Icecaller,Everbloom,FALSE,FALSE,FALSE,FALSE
+Cold Fusion,426849,84989,Infested Icecaller,Everbloom,FALSE,FALSE,FALSE,FALSE
+Spacial Disruption,426982,84990,Addled Arcanomancer,Everbloom,FALSE,FALSE,FALSE,FALSE
+Spacial Disruption,426974,84990,Addled Arcanomancer,Everbloom,FALSE,FALSE,FALSE,FALSE
+Arcane Blast,169841,84990,Addled Arcanomancer,Everbloom,TRUE,TRUE,FALSE,FALSE
+Cinderbolt Salvo,427225,84957,Putrid Pyromancer,Everbloom,FALSE,FALSE,FALSE,FALSE
+Pyroblast,169839,84957,Putrid Pyromancer,Everbloom,TRUE,TRUE,FALSE,FALSE
+Cinderbolt Salvo,427223,84957,Putrid Pyromancer,Everbloom,FALSE,FALSE,FALSE,FALSE
+Fungal First,427245,212981,Hapless Assistant,Everbloom,FALSE,FALSE,FALSE,FALSE
+Brittle Bark,164275,81522,Witherbark,Everbloom,FALSE,FALSE,FALSE,FALSE
+Parched Gasp,164357,81522,Witherbark,Everbloom,FALSE,FALSE,FALSE,FALSE
+Revitalize,168082,83892,Life Warden Gola,Everbloom,TRUE,TRUE,FALSE,FALSE
+Torrential Fury,427500,83892,Life Warden Gola,Everbloom,FALSE,FALSE,FALSE,FALSE
+Water Bolt,168092,83892,Life Warden Gola,Everbloom,TRUE,FALSE,FALSE,FALSE
+Torrential Fury,427498,83892,Life Warden Gola,Everbloom,FALSE,FALSE,FALSE,FALSE
+Noxious Charge,427510,83894,Dulhu,Everbloom,FALSE,FALSE,FALSE,FALSE
+Noxious Charge,417512,83894,Dulhu,Everbloom,FALSE,FALSE,FALSE,FALSE
+Noxious Discharge,427513,83894,Dulhu,Everbloom,FALSE,FALSE,FALSE,FALSE
+Nature's Wrath,168040,83893,Earthshaper Telu,Everbloom,TRUE,FALSE,FALSE,FALSE
+Terrestrial Fury,427508,83893,Earthshaper Telu,Everbloom,FALSE,FALSE,FALSE,FALSE
+Terrestrial Fury,427509,83893,Earthshaper Telu,Everbloom,FALSE,FALSE,FALSE,FALSE
+Toxic Bloom,427459,83893,Earthshaper Telu,Everbloom,TRUE,TRUE,FALSE,FALSE
+Arcane Affinity,166477,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Cinderbolt Storm,427919,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Frostbolt,427863,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Growing Infestation,428177,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Spatial Compression,428148,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Spatial Compression,428139,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Frost Affinity,166476,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Glacial Fusion,428082,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Blazing Cinders,426991,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Glacial Fusion,428084,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Cinderbolt Storm,427899,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Fireball,427858,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Cinderbolt,427922,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Fire Affinity,166475,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Arcane Blast,427885,82682,Archmage Sol,Everbloom,FALSE,FALSE,FALSE,FALSE
+Verdant Eruption,428834,83846,Yalnu,Everbloom,FALSE,FALSE,FALSE,FALSE
+Colossal Blow,169179,83846,Yalnu,Everbloom,FALSE,FALSE,FALSE,FALSE
+Genesis,169613,83846,Yalnu,Everbloom,FALSE,FALSE,FALSE,FALSE
+Verdant Eruption,428823,83846,Yalnu,Everbloom,FALSE,FALSE,FALSE,FALSE
+Encounter Spawn,181113,84400,Gnarled Ancient,Everbloom,FALSE,FALSE,FALSE,FALSE
+Vibrant Flourish,428951,84400,Gnarled Ancient,Everbloom,FALSE,FALSE,FALSE,FALSE
+Lumbering Swipe,169929,84400,Gnarled Ancient,Everbloom,FALSE,FALSE,FALSE,FALSE
+Lumbering Swipe,169930,84400,Gnarled Ancient,Everbloom,FALSE,FALSE,FALSE,FALSE
+Vibrant Flourish,428948,84400,Gnarled Ancient,Everbloom,FALSE,FALSE,FALSE,FALSE
+Thrash,76807,39616,Naz'jar Invader,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Slithering Assault,426618,39616,Naz'jar Invader,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Ravenous Pursuit,426663,212681,Vicious Snap Dragon,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Ravenous Pursuit,426662,212681,Vicious Snap Dragon,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Razor Jaws,426659,212681,Vicious Snap Dragon,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Razor Jaws,426660,212681,Vicious Snap Dragon,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Healing Wave,76813,41096,Naz'jar Oracle,Throne of the Tides,TRUE,TRUE,TRUE,FALSE
+Hex,76820,41096,Naz'jar Oracle,Throne of the Tides,TRUE,TRUE,TRUE,FALSE
+Water Bolt,426731,41096,Naz'jar Oracle,Throne of the Tides,TRUE,TRUE,TRUE,FALSE
+Shellbreaker,426741,40577,Naz'jar Sentinel,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Crushing Depths,426741,40577,Naz'jar Sentinel,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Volatile Acid,426688,212673,Naz'jar Ravager,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Volatile Bolt,426685,212673,Naz'jar Ravager,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Volatile Bolt,426684,212673,Naz'jar Ravager,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Acid Barrage,426645,212673,Naz'jar Ravager,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Acid Barrage,426727,212673,Naz'jar Ravager,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Lightning Surge,75992,40634,Naz'jar Tempest Witch,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Lightning Bolt,426768,40634,Naz'jar Tempest Witch,Throne of the Tides,TRUE,TRUE,TRUE,FALSE
+Leaping Thrash,427292,39960,Deep Murloc Drudge,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Leaping Thrash,427293,39960,Deep Murloc Drudge,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Water Bolt,428263,40586,Lady Naz'jar,Throne of the Tides,TRUE,TRUE,FALSE,FALSE
+Shock Blast,429263,40586,Lady Naz'jar,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Focused Tempest,428376,40586,Lady Naz'jar,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Focused Tempest,428374,40586,Lady Naz'jar,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Shock Blast,428054,40586,Lady Naz'jar,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Geyser,427769,40586,Lady Naz'jar,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Geysers,427771,40586,Lady Naz'jar,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+High Tide,75683,40586,Lady Naz'jar,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Frostbolt,428103,44404,Naz'jar Frost Witch,Throne of the Tides,TRUE,TRUE,FALSE,FALSE
+Icy Veins,428329,44404,Naz'jar Frost Witch,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Trident Flurry,428293,40633,Naz'jar Honor Guard,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Trident Flurry,428294,40633,Naz'jar Honor Guard,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Slithering Assault,428291,40633,Naz'jar Honor Guard,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Festering Shockwave,427668,40765,Commander Ulthok,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Bubbling Fissure,427565,40765,Commander Ulthok,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Bubbling Fissure,427672,40765,Commander Ulthok,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Crushing Claw,427670,40765,Commander Ulthok,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Awaken Ooze,427456,40765,Commander Ulthok,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Heavy Landing,427554,40765,Commander Ulthok,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Congealed Ooze,427451,213219,Bubbling Ooze,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Bubbling Ooze,427559,213219,Bubbling Ooze,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Shadow Smash,76590,40936,Faceless Watcher,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Crush,429021,40936,Faceless Watcher,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Clenching Tentacles,428926,40936,Faceless Watcher,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Mind Flay,426783,212775,Faceless Seer,Throne of the Tides,TRUE,TRUE,TRUE,TRUE
+Null Blast,426796,212775,Faceless Seer,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Psionic Pulse,426905,212778,Minion of Ghur'sha,Throne of the Tides,FALSE,FALSE,TRUE,TRUE
+Mindlink,419956,40825,Erunak Stonespeaker,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Stormflurry Totem,429037,40825,Erunak Stonespeaker,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Stormflurry,429038,40825,Erunak Stonespeaker,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Earthfury,429051,40825,Erunak Stonespeaker,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Earthfury,429057,40825,Erunak Stonespeaker,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Flame Shock,429048,40825,Erunak Stonespeaker,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Terrifying Vision,429172,40788,Mindbender Ghur'sha,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Mind Rot,429173,40788,Mindbender Ghur'sha,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Throw Spear,427384,40935,Gilgoblin Hunter,Throne of the Tides,FALSE,FALSE,TRUE,TRUE
+Poisoned Spear,76516,40935,Gilgoblin Hunter,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Poisoned Spear,427376,40935,Gilgoblin Hunter,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Aquablast,429176,40943,Gilgoblin Aquamage,Throne of the Tides,TRUE,TRUE,TRUE,TRUE
+Swell,76634,40925,Tainted Sentry,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Swell,76636,40925,Tainted Sentry,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Blotting Barrage,428405,213770,Ink of Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Blotting Barrage,428407,213770,Ink of Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Blotting Barrage,428399,213770,Ink of Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Blotting Barrage,428401,213770,Ink of Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Foul Bolt,428889,213770,Ink of Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Murk Spew,428530,213770,Ink of Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Putrid Roar,428868,213770,Ink of Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Gushing Ink,428809,213942,Sludge,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Gushing Ink,428621,213942,Sludge,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Grimy,428531,213942,Sludge,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Grimy,428403,213942,Sludge,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Ink Blast,428526,213806,Splotch,Throne of the Tides,TRUE,FALSE,FALSE,FALSE
+Deluge of Filth,428594,44566,Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Deluge of Filth,428616,44566,Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Raining Darkness,429046,44566,Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE
+Raining Darkness,429049,44566,Ozumat,Throne of the Tides,FALSE,FALSE,FALSE,FALSE

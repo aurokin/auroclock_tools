@@ -1,1 +1,1 @@
-AuroclockTools.Constants.Version = 3;
+AuroclockTools.Constants.Version = 5;

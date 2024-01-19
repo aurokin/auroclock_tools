@@ -6,5 +6,8 @@
   },
   "scripts": {
     "build": "node index.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.3"
   }
 }
