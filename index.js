@@ -76,6 +76,20 @@ const projects = [
         ]
     },
     {
+        name: "NameplateCDIcon",
+        type: "WA",
+        files: [
+            {
+                input: ["/weakauras/nameplateCdIcon/init.lua"],
+                output: "init.lua",
+            }, {
+                input: ["/weakauras/nameplateCdIcon/trigger.lua"],
+                output: "trigger.lua",
+            }
+
+        ]
+    },
+    {
         name: "FormatName",
         type: "Plater",
         files: [{
